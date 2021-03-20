@@ -43,7 +43,7 @@ ipykernel==4.10.0
 ipython==5.8.0
 ipython-genutils==0.2.0
 JayDeBeApi==1.1.1
-Jinja2==2.10
+Jinja2==2.11.3
 JPype1==0.6.3
 jsonschema==3.0.0a3
 kiwisolver==1.0.1
