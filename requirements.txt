@@ -75,7 +75,7 @@ pyasn1==0.4.5
 pyasn1-modules==0.2.4
 pydata-google-auth==0.1.2
 pydot==1.2.4
-Pygments==2.3.1
+Pygments==2.7.4
 PyHamcrest==1.9.0
 pyparsing==2.3.1
 pyrsistent==0.14.8
