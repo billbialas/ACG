@@ -49,7 +49,7 @@ jsonschema==3.0.0a3
 kiwisolver==1.0.1
 MarkupSafe==1.1.0
 matplotlib==2.2.3
-mistune==0.8.4
+mistune==2.0.3
 mock==2.0.0
 monotonic==1.5
 nbformat==4.4.0
